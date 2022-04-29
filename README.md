@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b> azamsharif ẞø 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg" alt="azam-sharifBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ azamɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -15,11 +15,11 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+[![GitHub forks](https://img.shields.io/github/forks/Sofiyajaan/azamuserbot?&style=flat-square&logo=github)](https://github.com/Sofiyajaan/azamuserbot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Sofiyajaan/azamuserbot?&style=flat-square&logo=github)](https://github.com/Sofiyajaan/azamuserbot/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/Sofiyajaan/azamuserbot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/Sofiyajaan/azamuserbot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
@@ -31,11 +31,11 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
+- [![Heroku](https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg)](#Deploy-To-Heroku)
 
-- [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
+- [![Railway](https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg)](#Deploy-on-Railway)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+- [![Locally](https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
@@ -65,7 +65,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-HellBot/Plugins.git`
+`git clone https://github.com/Sofiyajaan/Plugins.git`
 - Open Cloned Folder.
 
 `cd Plugins`
@@ -81,7 +81,7 @@
 
 `python hell_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start azamẞø† By
 
 `bash start.sh`
 
@@ -107,13 +107,13 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/Sofiyajaan/azamuserbot/master/hell_string.py && python3 hell_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
