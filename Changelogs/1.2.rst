@@ -1,5 +1,5 @@
 ========================
-HellBot Version Update
+Azam sharif Bot Version Update
 ========================
 
 +-------------------------+
@@ -41,17 +41,17 @@ Changelog 📃 :
 * **Ping Pic:** Added option to set picture/video/gif in ping message. You can set multiple pic/vid/gif by separating each link with a space. Do ``.svar ping_pic <links>``
 * **Config List:** Added a command to display all config variables. Do ``.vars`` to get normal variables and ``.vars -db`` to get Database based variables name.
 * **Plugin Channel:** Now extra plugins from plugin channel will be loaded automatically on every restart. Do ``.set var PLUGIN_CHANNEL <channel_id>`` to setup plugin channel. Remember plugin should be in `this format <https://github.com/The-HellBot/Plugins/blob/master/Plugins.md#follow-this-format-to-make-your-own-plugin-for-hellbot>`_
-* **Updated  HellBot Startup & Core.**
+* **Updated  azamBot Startup & Core.**
 
 +------------------------------------------------------------------------------------------------------------------------------------------+
-| Now HellBot supports multi clients at it's fullest. Will add more database based command in multi clients soon with updates. Stay tuned! |
+| Now azamBot supports multi clients at it's fullest. Will add more database based command in multi clients soon with updates. Stay tuned! |
 +------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/56>`_
 =====================================================================================
 
-:Regards: * `@ForGo10God <https://t.me/forgo10god>`_
+:owner: * ` <https://t.me/azam_sharif_owner
 
-By ~ `Hêllẞø† Network { 🇮🇳 } <https://t.me/hellbot_network>`_
+By ~ `AZAMẞø† Network { 🇮🇳 } <https://t.me/azam_sharif_gorup>`_
 =================================================
